@@ -1,8 +1,8 @@
 ## These are my configuration files
 
-## .vimrc
-## .minttyrc
-## .bashrc
+1. **.vimrc**
+2. **.minttyrc**
+3. **.bashrc**
 
 # Existing Git Repo?
 cd existing_git_repo  
