@@ -1,4 +1,5 @@
 ## These are my configuration files
+[How To Use Git to Manage your User Configuration Files on a Linux VPS](https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps)
 
 1. **.vimrc**
 2. **.minttyrc**
