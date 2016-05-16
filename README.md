@@ -1,6 +1,7 @@
 ## These are my configuration files
-[How To Use Git to Manage your User Configuration Files on a Linux VPS](https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps)
-
+### Ideas from:
+* [How To Use Git to Manage your User Configuration Files on a Linux VPS](https://www.digitalocean.com/community/tutorials/how-to-use-git-to-manage-your-user-configuration-files-on-a-linux-vps)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. **.vimrc**
 2. **.minttyrc**
 3. **.bashrc**
