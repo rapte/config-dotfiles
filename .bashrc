@@ -191,3 +191,5 @@
 
 # The following lines are added for RaTools
 alias ls='ls --color=auto'
+alias e.='explorer .'
+alias cdc='cd /f/work/project/personal_setup/home/ravindra/documents/programming/c'
